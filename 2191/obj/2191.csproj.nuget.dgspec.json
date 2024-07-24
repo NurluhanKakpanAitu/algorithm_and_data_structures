@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nurlykhankakpan/RiderProjects/algorithm_and_data_structures/LinkedList/LinkedList.csproj": {}
+    "/Users/nurlykhankakpan/RiderProjects/algorithm_and_data_structures/2191/2191.csproj": {}
   },
   "projects": {
-    "/Users/nurlykhankakpan/RiderProjects/algorithm_and_data_structures/LinkedList/LinkedList.csproj": {
+    "/Users/nurlykhankakpan/RiderProjects/algorithm_and_data_structures/2191/2191.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nurlykhankakpan/RiderProjects/algorithm_and_data_structures/LinkedList/LinkedList.csproj",
-        "projectName": "LinkedList",
-        "projectPath": "/Users/nurlykhankakpan/RiderProjects/algorithm_and_data_structures/LinkedList/LinkedList.csproj",
+        "projectUniqueName": "/Users/nurlykhankakpan/RiderProjects/algorithm_and_data_structures/2191/2191.csproj",
+        "projectName": "2191",
+        "projectPath": "/Users/nurlykhankakpan/RiderProjects/algorithm_and_data_structures/2191/2191.csproj",
         "packagesPath": "/Users/nurlykhankakpan/.nuget/packages/",
-        "outputPath": "/Users/nurlykhankakpan/RiderProjects/algorithm_and_data_structures/LinkedList/obj/",
+        "outputPath": "/Users/nurlykhankakpan/RiderProjects/algorithm_and_data_structures/2191/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nurlykhankakpan/.nuget/NuGet/NuGet.Config"
