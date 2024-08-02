@@ -1,0 +1,15 @@
+/Users/nurlykhankakpan/RiderProjects/algorithm_and_data_structures/2678/bin/Debug/net8.0/2678
+/Users/nurlykhankakpan/RiderProjects/algorithm_and_data_structures/2678/bin/Debug/net8.0/2678.deps.json
+/Users/nurlykhankakpan/RiderProjects/algorithm_and_data_structures/2678/bin/Debug/net8.0/2678.runtimeconfig.json
+/Users/nurlykhankakpan/RiderProjects/algorithm_and_data_structures/2678/bin/Debug/net8.0/2678.dll
+/Users/nurlykhankakpan/RiderProjects/algorithm_and_data_structures/2678/bin/Debug/net8.0/2678.pdb
+/Users/nurlykhankakpan/RiderProjects/algorithm_and_data_structures/2678/obj/Debug/net8.0/2678.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nurlykhankakpan/RiderProjects/algorithm_and_data_structures/2678/obj/Debug/net8.0/2678.AssemblyInfoInputs.cache
+/Users/nurlykhankakpan/RiderProjects/algorithm_and_data_structures/2678/obj/Debug/net8.0/2678.AssemblyInfo.cs
+/Users/nurlykhankakpan/RiderProjects/algorithm_and_data_structures/2678/obj/Debug/net8.0/2678.csproj.CoreCompileInputs.cache
+/Users/nurlykhankakpan/RiderProjects/algorithm_and_data_structures/2678/obj/Debug/net8.0/2678.sourcelink.json
+/Users/nurlykhankakpan/RiderProjects/algorithm_and_data_structures/2678/obj/Debug/net8.0/2678.dll
+/Users/nurlykhankakpan/RiderProjects/algorithm_and_data_structures/2678/obj/Debug/net8.0/refint/2678.dll
+/Users/nurlykhankakpan/RiderProjects/algorithm_and_data_structures/2678/obj/Debug/net8.0/2678.pdb
+/Users/nurlykhankakpan/RiderProjects/algorithm_and_data_structures/2678/obj/Debug/net8.0/2678.genruntimeconfig.cache
+/Users/nurlykhankakpan/RiderProjects/algorithm_and_data_structures/2678/obj/Debug/net8.0/ref/2678.dll

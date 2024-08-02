@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EulerFunction")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c741fff6df812255f5ec4bbcebeec6acd483755d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f39eaada5f279ecac35525e76584a66debbe9d89")]
 [assembly: System.Reflection.AssemblyProductAttribute("EulerFunction")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EulerFunction")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
